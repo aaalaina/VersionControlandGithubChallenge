@@ -1,0 +1,5 @@
+A terminal is a place where we can input text-based commands and get text-based outputs. We can use it to store local projects/repositories and send projects to places like Github.
+
+A really good analogy I saw online compared git to a file archive and GitHub to a big warehouse of filing cabinets. So, in other words, git is software—or a type of version control, rather—used to store and track changes made to the files you create locally on your computer whereas GitHub is a hosting service/website that stores all of the git projects and repositories you make and allows you to share them with others. Github is cloud-based and open-sourced compared to git being local.
+
+We use GitHub because it supports our git projects and provides us with a lot of tools. The interface is pretty easy to understand, you can use it to collaborate on projects or share work with others, and it's open-source making things freely available to all.
